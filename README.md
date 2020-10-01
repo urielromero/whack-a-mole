@@ -19,13 +19,12 @@ https://urielromero.github.io/whack-a-mole/
 
 Main functions and methods used for this game are: 
 
-push()
-querySelector()
-setAttribute()
-getAttribute()
-createElement()
-appendChild()
-Math.random()
-sort()
-setInterval()
-For loop
+  • addEventListener()
+  • Arrow functions
+  • classList
+  • forEach()
+  • setInterval()
+  • querySelector()
+
+
+
